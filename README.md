@@ -1,3 +1,5 @@
 # Python-Snake-Game
 
-Import pygane
+Import pygame
+import time
+import
